@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskHyperQuant", "TestTaskHyperQuant\TestTaskHyperQuant.csproj", "{2659D931-D580-4011-A1D2-55CF6960CF1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connector", "Connector\Connector.csproj", "{19C6141B-B28E-4318-BA65-17321806AD19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{8FBB16C3-137D-4FFA-8BD7-040EED3971DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2659D931-D580-4011-A1D2-55CF6960CF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2659D931-D580-4011-A1D2-55CF6960CF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2659D931-D580-4011-A1D2-55CF6960CF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C6141B-B28E-4318-BA65-17321806AD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C6141B-B28E-4318-BA65-17321806AD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C6141B-B28E-4318-BA65-17321806AD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C6141B-B28E-4318-BA65-17321806AD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBB16C3-137D-4FFA-8BD7-040EED3971DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBB16C3-137D-4FFA-8BD7-040EED3971DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBB16C3-137D-4FFA-8BD7-040EED3971DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBB16C3-137D-4FFA-8BD7-040EED3971DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
