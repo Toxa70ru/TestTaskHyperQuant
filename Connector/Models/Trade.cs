@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Connector.Models
 {
-    internal class Trade
+    public class Trade
     {
+        public long Id { get; set; }
+        public DateTime Timestamp { get; set; }
+        public decimal Amount { get; set; }
+        public decimal Price { get; set; }
     }
 }
